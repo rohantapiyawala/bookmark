@@ -8,9 +8,9 @@
 
         <!-- Database connection settings -->
         <property name="connection.driver_class">org.postgresql.Driver</property>
-        <property name="connection.url">jdbc:postgresql://127.0.0.1:5432/bk_manager</property>
-        <property name="connection.username">postgres</property>
-        <property name="connection.password">root</property>
+        <property name="connection.url">jdbc:postgresql://ec2-54-163-235-165.compute-1.amazonaws.com:5432/d106rn31kmu00j</property>
+        <property name="connection.username">qxzxuenndrseny</property>
+        <property name="connection.password">Y-ypjrM6WEbfh0jtHXH8wFdTM-</property>
 
         <!-- JDBC connection pool (use the built-in) -->
         <property name="connection.pool_size">1</property>
